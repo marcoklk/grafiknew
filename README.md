@@ -1,0 +1,2 @@
+# grafiknew
+Projekt zaliczeniowy - drugi
